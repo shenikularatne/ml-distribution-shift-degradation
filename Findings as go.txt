@@ -1,0 +1,3 @@
+This is Actually Your First Descriptive Analytics Finding!
+
+"The income distributions differ meaningfully across environments — the region shift dataset has 7.3% more low-income earners than training data, while the age shift dataset has 10.2% more high-income earners. This suggests the model will encounter different patterns in each deployment environment."

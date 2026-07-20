@@ -1,0 +1,11 @@
+"Test","P_Value","Significant"
+"Chi-Square: Income (Baseline vs Region)",5.03902759918555e-09,TRUE
+"Chi-Square: Income (Baseline vs Age)",4.23252727504226e-58,TRUE
+"T-Test: Age (Baseline vs Region)",9.22867755850843e-06,TRUE
+"T-Test: Age (Baseline vs Age)",0,TRUE
+"T-Test: Capital Gain (Baseline vs Region)",6.96875414497411e-07,TRUE
+"T-Test: Capital Gain (Baseline vs Age)",1.01636892587056e-12,TRUE
+"T-Test: Hours/Week (Baseline vs Region)",2.22560494581014e-06,TRUE
+"T-Test: Hours/Week (Baseline vs Age)",3.30156111810328e-28,TRUE
+"Prop Test: Performance (Baseline vs Region)",0.96932628510244,FALSE
+"Prop Test: Performance (Baseline vs Age)",4.81768467901206e-07,TRUE

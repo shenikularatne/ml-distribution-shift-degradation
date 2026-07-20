@@ -1,0 +1,4 @@
+"Environment","N","Mean_Age","SD_Age","Mean_Hrs_Week","SD_Hrs_Week","Mean_Cap_Gain","Pct_High_Inc"
+"Baseline",15007,34.91,5.94,43.16,10.65,997.01,26.59
+"Region Shift",1547,34.2,5.97,41.77,11.06,486.44,19.72
+"Age Shift",8027,55,7.72,41.37,12.31,1897.37,36.8

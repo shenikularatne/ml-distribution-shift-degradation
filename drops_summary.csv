@@ -1,0 +1,3 @@
+"Environment","Model","Accuracy_Drop","AUC_Drop","F1_Drop","Bal_Accuracy_Drop"
+"Region Shift vs Baseline","Random Forest",-0.000890593515118443,0.0117764128642212,0.0829289054842791,0.0171075883796989
+"Age Shift vs Baseline","Random Forest",0.0395643384456872,0.0259953341731701,-0.0310126006415505,0.0361960527212073
